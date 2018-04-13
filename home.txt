@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 bash
 I am a ham and you ppl call me sam.
+=======
+Hi
+My name is Tom.
+>>>>>>> fish
