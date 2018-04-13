@@ -1,3 +1,2 @@
-bash
-I am a ham and you ppl call me sam.
-Its nice to have a nice name
+Hi
+My name is Tom.
